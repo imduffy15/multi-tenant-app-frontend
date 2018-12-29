@@ -1,2 +1,3 @@
-# tenant-app
-Example of a &lt;tenant>.example.org application
+# WIP: tenant-app
+
+Example of a <tenant>.example.org application
